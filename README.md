@@ -6,9 +6,9 @@
 ## 1. How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
 
 I think this is one of those skills that takes time to master. As long as there is an open line of communication with the end-user, all types of changes can be implemented by way of many small and simple releases. User stories helps with streamlining client needs by asking the questions, "Who?," "What?," and "Why?."
-   1. * **Who** is this change for?* 
-   2. * **What** does the user want to accomplish?* 
-   3. * **Why** is this change needed?*
+   1. **Who** is this change for? 
+   2. **What** does the user want to accomplish?
+   3. **Why** is this change needed?
 
 ## 2. How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
 
